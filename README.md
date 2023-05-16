@@ -2,7 +2,9 @@
 Automatic Prediction of Football Players’ Salaries
 
 UCC MScDSA Thesis Project
-Candidaete: Barry O'Keeffe
+
+Candidate: Barry O'Keeffe
+
 Supervisors: Dr Andrea Vistentin; Dr Diego Carraro
 
 The goals of this thesis are:
