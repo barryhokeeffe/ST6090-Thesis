@@ -5,7 +5,7 @@ UCC MScDSA Thesis Project
 
 Candidate: Barry O'Keeffe
 
-Supervisors: Dr Andrea Vistentin; Dr Diego Carraro
+Supervisors: Dr Andrea Visentin; Dr Diego Carraro
 
 The goals of this thesis are:
 
